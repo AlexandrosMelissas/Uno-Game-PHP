@@ -4,6 +4,13 @@
  https://users.iee.ihu.gr/~it154582/Uno-Game-AlexMelissas
 
 
+# Technologies Used
+
+1. Vanilla PHP
+2. Mysql
+3. Bootstrap 4
+4. Jquery (AJAX calls)
+
 # API 
 
 
