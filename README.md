@@ -9,7 +9,8 @@
 1. Vanilla PHP
 2. Mysql
 3. Bootstrap 4
-4. Jquery (AJAX calls)
+4. Vanilla Javascript
+5. Jquery (AJAX calls)
 
 # API 
 
