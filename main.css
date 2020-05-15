@@ -1,0 +1,37 @@
+.opponent {
+	position: absolute;
+	top: 5%;
+}
+.opp_cards {
+	position: absolute;
+	top: 15%;
+}
+.playing_card {
+	position: absolute;
+	top: 40%;
+}
+#table {
+	position: absolute;
+	bottom: 20%;
+}
+.you {
+	position: absolute;
+	bottom: 10%;
+}
+.remaining_deck {
+	position: absolute;
+	top: 20%;
+}
+.controls {
+	position: absolute;
+	bottom: 10%;
+}
+.turn {
+	position: absolute;
+	top: 30%;
+}
+.col-sm.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
