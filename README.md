@@ -1,7 +1,7 @@
 # Uno Game 
 
 # Link
- https://users.iee.ihu.gr/~it154582/ADISE19_Meli-Geo-/
+ https://users.iee.ihu.gr/~it154582/Uno-Game-AlexMelissas
 
 
 # API 
